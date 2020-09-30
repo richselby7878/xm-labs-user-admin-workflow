@@ -26,6 +26,7 @@ In the xMatters UI, navigate to Messaging > User Admin Workflow > Deactivate Use
 </kbd>
 
 Enter the list of users you wish to deactivate (can be pasted from Excel). Set the separator character from a Choice of three; default is new line. The system is fairly forgiving when it comes to input, e.g. blank lines or duplicate entrees. Then press the big blue Send Message button.
+
 <kbd>
   <img src="/media/deactivate_form.png" width="750">
 </kbd>
@@ -81,13 +82,13 @@ Do a browser page reload,  navigate to Messaging > User Admin Workflow > Deactiv
 # Troubleshooting
 Debug logs are available. Navigate to the workflows's Integration Builder tab, expand Outbound integrations, then select Activity Stream from the right-hand gear icon. The Activity Stream contains logs.
 <kbd>
-  <img src="activity_stream" width="750">
+  <img src="activity_stream.png" width="750">
 </kbd>
 You can also see the same logs via Flow Designer. Navigate to the Flows tab, Deacticate Users flow, click the Activity button, click the lomg Name, then click the Log tab.
 <kbd>
-  <img src="flow_logs" width="750">
+  <img src="flow_logs.png" width="750">
 </kbd>
 The JavaScript code is contained within the Deactivate Users custom step. This can also be edited from the Flow tab > Custom section.
 <kbd>
-  <img src="custom_step" width="750">
+  <img src="custom_step.png" width="750">
 </kbd>
