@@ -59,7 +59,9 @@ Should you check your User list in xMatters you will see how those users are now
 
 ## xMatters set up
 1. Log into xMatters as a user with the Developer role. Navigate to Workflows, click the Import button on the top right and import the [UserAdminWorkflow.zip](UserAdminWorkflow.zip) file.
+
 2. Click the Open Workflow button. You will see a list of four forms. If other users are allowed to use it, you will need to set Sender Permissions on all four forms. To do this, click the left most button (says Web UI) and then Sender Permissions. Add the users or roles who can use the form.
+
 <kbd>
   <img src="/media/sender_permissions.png" width="750">
 </kbd>
@@ -75,7 +77,7 @@ Should you check your User list in xMatters you will see how those users are now
 
 
 # Testing
-Do a browser page reload,  navigate to Messaging > User Admin Workflow > Deactivate Users and give it a whirl.
+Reload your browser page,  navigate to Messaging > User Admin Workflow > Deactivate Users and give it a whirl.
 
 
 
@@ -84,10 +86,12 @@ Debug logs are available. Navigate to the workflows's Integration Builder tab, e
 <kbd>
   <img src="/media/activity_stream.png" width="750">
 </kbd>
+
 You can also see the same logs via Flow Designer. Navigate to the Flows tab, Deacticate Users flow, click the Activity button, click the lomg Name, then click the Log tab.
 <kbd>
   <img src="/media/flow_logs.png" width="750">
 </kbd>
+
 The JavaScript code is contained within the Deactivate Users custom step. This can also be edited from the Flow tab > Custom section.
 <kbd>
   <img src="/media/custom_step.png" width="750">
