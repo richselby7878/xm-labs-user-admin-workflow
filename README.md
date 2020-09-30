@@ -24,7 +24,7 @@ In the xMatters UI, navigate to Messaging > User Admin Workflow > Deactivate Use
 <kbd>
   <img src="/media/messaging_useradmin.png" width="500">
 </kbd>
-Enter the list of users you wish to deactivate (can be pasted from Excel). Set the separator character form a Choice of three; default is new line. It's fairly forgiving when it comes to input. Then press the big blue Send Message button.
+Enter the list of users you wish to deactivate (can be pasted from Excel). Set the separator character from a Choice of three; default is new line. The system is fairly forgiving when it comes to input, e.g. blank lines or duplicate entrees. Then press the big blue Send Message button.
 <kbd>
   <img src="/media/deactivate_form.png" width="750">
 </kbd>
