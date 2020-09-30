@@ -95,6 +95,7 @@ You can also see the same logs via Flow Designer. Navigate to the Flows tab, Dea
 
 
 The JavaScript code is contained within the Deactivate Users custom step. This can be edited from the Flow tab > Custom section.
+
 <kbd>
   <img src="/media/custom_step.png" width="300">
 </kbd>
