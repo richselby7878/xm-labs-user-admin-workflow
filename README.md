@@ -87,7 +87,8 @@ Debug logs are available. Navigate to the workflows's Integration Builder tab, e
   <img src="/media/activity_stream.png" width="750">
 </kbd>
 
-You can also see the same logs via Flow Designer. Navigate to the Flows tab, Deacticate Users flow, click the Activity button, click the lomg Name, then click the Log tab.
+You can also see the same logs via Flow Designer. Navigate to the Flows tab, Deacticate Users flow, click the Activity button, click the long Name, then click the Log tab.
+
 <kbd>
   <img src="/media/flow_logs.png" width="750">
 </kbd>
