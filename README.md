@@ -82,13 +82,13 @@ Do a browser page reload,  navigate to Messaging > User Admin Workflow > Deactiv
 # Troubleshooting
 Debug logs are available. Navigate to the workflows's Integration Builder tab, expand Outbound integrations, then select Activity Stream from the right-hand gear icon. The Activity Stream contains logs.
 <kbd>
-  <img src="activity_stream.png" width="750">
+  <img src="/media/activity_stream.png" width="750">
 </kbd>
 You can also see the same logs via Flow Designer. Navigate to the Flows tab, Deacticate Users flow, click the Activity button, click the lomg Name, then click the Log tab.
 <kbd>
-  <img src="flow_logs.png" width="750">
+  <img src="/media/flow_logs.png" width="750">
 </kbd>
 The JavaScript code is contained within the Deactivate Users custom step. This can also be edited from the Flow tab > Custom section.
 <kbd>
-  <img src="custom_step.png" width="750">
+  <img src="/media/custom_step.png" width="750">
 </kbd>
