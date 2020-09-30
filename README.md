@@ -36,6 +36,7 @@ You confirm it's OK to send without a recipient. Then you wait a minute for a re
 </kbd>
 
 Pop over to the Recent Events report. Deactivate-users kicker will be there, as that's the form you just sent. A minute later, the Deactivated User Report will appear above. 
+
 <kbd>
   <img src="/media/recent_events.png" width="500">
 </kbd>
@@ -65,8 +66,9 @@ Should you check your User list in xMatters you will see how those users are now
 3. Optional: If you want the results emailed to a user or group, you can set this on the report forms. Edit the *Deactivate User report* form by clicking Edit > Layout. Add recipients to the Recipient box then save changes. Navigate back a level and repeat for *Activate User report*.
 
 4. Optional: There's a litle trick you can use to eliminate the No Recipients Selected warning. First create an xMatters user called Nobody who has no devices. Open the *Deactivate Users* form and set this user as recipient. You can also grey out the eye-icon to stop recipient from being displayed.  Repeat for *Activate Users*. Don't forget to Save Changes. 
+
 <kbd>
-  <img src="/media/nobody" width="500">
+  <img src="/media/nobody.png" width="500">
 </kbd>
 
 
